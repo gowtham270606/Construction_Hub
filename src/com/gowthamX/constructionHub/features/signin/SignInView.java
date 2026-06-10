@@ -18,7 +18,7 @@ public class SignInView {
         this.authenticated = false;
     }
 
-    public void init() {
+    public void     init() {
         System.out.println();
         System.out.println("Construction Site Management System");
         System.out.println("Sign in to ConstructHub");
